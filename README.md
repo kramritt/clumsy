@@ -54,8 +54,4 @@ npx serve   # If you have Node.js installed
 
 ---
 
-### 📸 Extra Image
-![Reflection Art](IMG_6496.jpeg)
-
-🚀 **Enjoy the game & happy coding!** 🎮🔥  
 
