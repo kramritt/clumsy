@@ -1,8 +1,6 @@
 ### 🅽️ Clumsy Bird – A Flappy Bird Clone
 Welcome to **Clumsy Bird**, a fun and challenging Flappy Bird clone built with **MelonJS**! 🐦💥
 
-![Clumsy Bird](https://raw.githubusercontent.com/ellisonleao/clumsy-bird/gh-pages/data/img/clumsy.png)
-
 ---
 
 ## ✨ Features
